@@ -1,0 +1,38 @@
+h1 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 500;
+}
+body {
+    font-family: 'Dancing Script', cursive;
+ font-weight:bold;
+ font-size:large;
+}
+h3 {
+    font-size: 30px;
+}
+section {
+    display:flex;
+    background-image:url("jhankar image/top-banner.png");
+   background-repeat: no-repeat;
+   margin: 0px;
+   padding-left: 10px;
+
+
+}
+.first {
+    width: 50%;
+}
+.first img{
+    width: 60%;
+   
+}
+.link {
+    text-decoration: none;
+    background-color: lawngreen;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+    background-image: linear-gradient(orange,tomato);
+
+}
