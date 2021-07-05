@@ -13,11 +13,14 @@ h3 {
 }
 section {
     display:flex;
-    background-image:url("jhankar image/top-banner.png");
-   background-repeat: no-repeat;
    padding-left: 4%;
+   margin-bottom: 100px;
 
 
+}
+.s1 {
+    background-image:url("jhankar image/top-banner.png");
+    background-repeat: no-repeat;
 }
 .first {
     width: 50%;
@@ -34,4 +37,17 @@ section {
     color: white;
     background-image: linear-gradient(orange,tomato);
 
+}
+.second{
+    width: 50%;
+
+}
+.second img{
+    width: 80%;
+   
+}
+.s2{
+    background-image: url("jhankar image/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
