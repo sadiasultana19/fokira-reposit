@@ -6,6 +6,7 @@ body {
     font-family: 'Dancing Script', cursive;
  font-weight:bold;
  font-size:large;
+ margin: 0%;
 }
 h3 {
     font-size: 30px;
@@ -14,8 +15,7 @@ section {
     display:flex;
     background-image:url("jhankar image/top-banner.png");
    background-repeat: no-repeat;
-   margin: 0px;
-   padding-left: 10px;
+   padding-left: 4%;
 
 
 }
@@ -28,7 +28,6 @@ section {
 }
 .link {
     text-decoration: none;
-    background-color: lawngreen;
     font-size: 20px;
     border-radius: 5px;
     padding: 10px 40px;
